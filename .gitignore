@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# macOS / Linux files
+.DS_Store
+Thumbs.db
+
+# Cache files
+.cache/
