@@ -82,6 +82,6 @@ def conatains_duplicate2( nums: List[int] ) -> bool :
     return not (len( nums ) == len( nums_without_duplicates ) )
 
 
-print ( conatains_duplicate2( [ ]) ) 
+print ( conatains_duplicate2( [ ] ) ) 
 
 
