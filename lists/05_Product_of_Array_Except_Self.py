@@ -1,6 +1,6 @@
 from typing import List 
 
-def productExceptSelf(self, nums: List[int]) -> List[int]:
+def productExceptSelf( nums: List[int]) -> List[int]:
     """
     Approach:
     ----------
